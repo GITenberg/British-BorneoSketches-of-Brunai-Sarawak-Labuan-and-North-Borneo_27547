@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32759'
     url: http://www.gutenberg.org/2009/agents/32759
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27547#British-BorneoSketches-of-Brunai-Sarawak-Labuan-and-North-Borneo
 gutenberg_issued: '2008-12-16'
 gutenberg_type: Text
 identifiers:
